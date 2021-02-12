@@ -1,2 +1,2 @@
-# CQUT
-all the assignment and practices
+# Chongqing Univarsity of Technology
+all the assignments of Big Data Processing and Practise Course 
