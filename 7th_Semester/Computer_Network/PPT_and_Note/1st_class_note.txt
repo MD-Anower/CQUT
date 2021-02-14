@@ -1,0 +1,43 @@
+hypertext  meta-data  abstract data data about data, map data, ...
+rent/lease computing power through cloud, pay by service/time
+
+client/server,  client(app)/cloud model,  various models,   centerized model, de-centralized model, distributed model, ...
+
+VR virtual reality, AR augmented reality
+
+personal 1M - 10 meters  PAN personal area network
+LAN/WLAN
+MAN/WAN metro/wide area network, 4G/5G wireless/mobile, coaxial cable/optical fiber cable for wired
+Internet
+
+bluetooth/zeebee -- PAN
+wifi 10 ~ several 10 meters
+LAN 10 meters ~ several 1KM
+
+end use/app  driving network technologies to develop very fast
+
+sensor - temperature, humidity, pressure, ...  visual/vision camera, infrared, ...
+
+gather data remotely and provide service for anytime/anywhere/anything/anyone
+
+sensor networks are different from normal/typical computer networks, although they have commons
+
+no matter where your receiver/remote located, on campus within the city, out of city, ... across country/ocean
+
+link - 
+1. physical connection to google.com, from China to San francisco, USA
+computer --> access network --> router  --> trunk router  --> network --> remote access net  --> google.com
+wired/wireless access, network router routing, transmitt/transport through Pacific undersea optic fiber cable, well after invention of airplane/vehicle, technology is so complex and investment cost is so high.
+
+2. logical connection
+many users/devices want to connect to google.com, ...
+
+it's simple case/task, but under the hood it's complicated/complex, why??? so it's not simple as you thought
+
+why human kind invent vehicle/airplane/canon well before computer network??? have you thought about this question???
+
+web browser on your PC/mobile -- client, various kinds of web browsers IE, chrome, QQ, firefox, no matter which kinds of web browers, 
+HTTP hypertext transport/transfer protocol, application layer/top layer   7th layer in 7-layer model, top layer in 4-layer TCP/IP model
+
+HTTP syntax/format:
+GET - predicate/verb/action/event, followed by the remote host address

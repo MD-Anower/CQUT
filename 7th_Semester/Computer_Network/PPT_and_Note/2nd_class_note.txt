@@ -1,0 +1,28 @@
+transmission, communciation of signal digital, bit-stream, 
+routing, find and search path for multipath scenarios, how to reach the optimal path is critical, optimal in which sense either in shortest distance/delay, or lowest cost/fare, or lowest traffic and congestion, ...
+
+link management
+1. multi-users competing for shared transmission media during access, starting
+2. on-the-fly link management, means session already active, link/resources/status should be kept alive and hold until session finish
+
+negotiating by protocol TCP/IP, defining the rules/syntax/format for communication/networking
+regulating: for example video/voice session, user require high QoS, network path/resource limit has constraints, mismatch happen, you drive car and find many cars on streets, regulating the traffic management, flow/traffic control
+
+managing the network functions/services/devices/links, for example China Mobile, Chine Telecom, Unicom
+
+profiling - profile define levels of services for users/devices/links, for example, monthly plan -- corresponding to profiling
+
+self-healing - means the networks will seperate the failing/broken parts/modules, still functions
+
+scalability flexbility - computer networks can scale and very flexible compared to traditional telecom networks outdated
+
+QoS quality of service, describe service level, which sense, for example, call acceptance rate should high, call rejection rate should low, signal/noise ratio should high, ...
+
+fairness - access fairness link MAC multi-user, load fairness using network resources for public networks except dedicated/private network/link, service based on level/profiling/priority
+
+reliability - overall network still function no matter individual device/component failing
+
+heterogeneous means different hetero- English prefix 
+but even with heterogeneous devices/components, network still function because common protocol/interface
+
+network complexity, including network elements/devices/components/modules, hardware/software, link/path/route/service/profiles/security/permission
