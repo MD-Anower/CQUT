@@ -13,5 +13,5 @@ downloading the clone of assignment_1 rename the folder into Assignment_1_ML_620
 
 
 ### media sound 
-![  ](Figure/mediasound.png)
+![  ](Figure/medisound.png)
 
