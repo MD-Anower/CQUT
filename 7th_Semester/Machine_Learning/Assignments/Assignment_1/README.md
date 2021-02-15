@@ -8,4 +8,4 @@ downloading the clone of assignment_1 rename the folder into Assignment_1_ML_620
 
 ## Figure 
 
-### Structure Array ![Structure Array](Figure/structure_array.png)
+### Structure Array ![ ](Figure/structure_array.png)
