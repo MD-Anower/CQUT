@@ -1,0 +1,16 @@
+quizzes
+homework
+Sequence diagram, activity diagram,
+case diagram,dfd
+
+
+Someone want to know something about the final exam. My answer is below.
+
+Question types. 
+一、Single Choice Question（only one answer is right, 2 points for each question）
+二、True (T) or False (F) Questions  
+三、Short Answer（36 points）
+四、 Comprehensive application questions （34 point）
+
+Diagrams, sequence diagrams,DFD etc. may  be covered  in fouth question.一，二，三，四  mean first  to fouth  
+ You can review the  homeworks,  quizzes, etc   
